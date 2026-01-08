@@ -13,7 +13,4 @@ This project implements a computer vision solution to detect and classify manufa
 ![Sample Inspection](images/result_0.jpg)
 
 
-## How to Run
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the inspection script: `python main.py`
+
