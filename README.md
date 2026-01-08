@@ -11,7 +11,7 @@ This project implements a computer vision solution to detect and classify manufa
 
 ## Visuals
 ![Sample Inspection](images/result_0.jpg)
-*(Replace this with the path to one of your saved images)*
+
 
 ## How to Run
 1. Clone the repository.
